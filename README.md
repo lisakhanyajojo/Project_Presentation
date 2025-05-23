@@ -77,8 +77,7 @@ Submission Date: 23 May 2025
 ## CV Submission
 
 ### Evidence
-- Screenshot of successful CV submission email or platform
-- Confirmation message or receipt
+[My CV (pdf)](https://github.com/lisakhanyajojo/Project_Presentation/blob/main/Curriculum%2BVitae%2Bof%2BLisakhanya%2BJojo.pdf)
 
 ### STAR Reflection
 **S**: I submitted my CV to a job application portal as part of the Work Readiness Training.

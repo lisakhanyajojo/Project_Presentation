@@ -3,8 +3,11 @@
 #  Digital Portfolio Portfolio
 
 Student Name: Lisakhanya Jojo
+
 Student Number: 221030921
+
 Course: Diploma in ICT
+
 Submission Date: 23 May 2025
 
 

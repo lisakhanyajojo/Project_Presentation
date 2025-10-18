@@ -91,3 +91,48 @@ Submission Date: 23 May 2025
 
 **R**: I received a confirmation email, and it helped build my confidence in applying for future positions.
 
+
+## Business communication Evidence
+
+### Evidence
+<img width="1919" height="896" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/1f99b87b-dfc8-4756-baf6-1ce4c7bbe031" />
+
+
+### STAR Reflection
+
+**S**: I completed the Business Communication activity that tested my understanding of workplace communication principles.
+
+**T**: My task was to answer questions accurately on topics such as tone, formal language, non-verbal communication, and virtual meeting etiquette.
+
+**A**: I carefully reviewed each question, applied what I learned, and redid the activity to correct my mistakes and improve my performance.
+
+**R**: I achieved a 100% completion score, which strengthened my confidence and understanding of professional communication in business environments.
+
+
+## Interview Skills
+### Evidence
+<img width="1919" height="908" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/245b0aaa-c0ef-4aab-bc2b-60c82abf3688" />
+
+### STAR Reflection
+
+**S**: I completed the Interview Skills activity as part of my professional development training.
+
+**T**: My task was to demonstrate an understanding of the key principles of job interviews, including their purpose and the CAR (Context, Action, Result) method used to answer interview questions effectively.
+
+**A**: I carefully reviewed the interview concepts, answered all questions to the best of my knowledge, and ensured I understood how to apply the CAR method in real interview situations.
+
+**R**: I achieved a 100/100 final mark and completed the activity successfully, which improved my confidence in preparing for future job interviews and understanding how to structure my responses professionally
+
+## Mock Interview
+### Evidence
+https://github.com/lisakhanyajojo/Mock-Interview/blob/main/L_Jojo_Mock_Interview.mp4
+
+STAR Reflection
+
+**S**: I had to complete the Interview Skills activity as part of my work readiness training.
+
+**T**: My goal was to demonstrate an understanding of how to prepare for and perform well in a job interview, including knowing the purpose of interviews and how to structure responses effectively.
+
+**A**: I reviewed the key concepts of interview preparation, including the CAR (Context, Action, Result) method. I applied this knowledge while answering the activity questions and focused on how to communicate confidently and professionally in an interview setting.
+
+**R**: The activity improved my confidence and readiness for real interviews by helping me structure my answers and present myself effectively.

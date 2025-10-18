@@ -1,4 +1,4 @@
-# Project_Presentation
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/430dd365-08ea-40b2-9c38-23d28e0106bd" /># Project_Presentation
 
 #  Digital Portfolio Portfolio
 
@@ -127,7 +127,7 @@ Submission Date: 23 May 2025
 ### Evidence
 https://github.com/lisakhanyajojo/Mock-Interview/blob/main/L_Jojo_Mock_Interview.mp4
 
-STAR Reflection
+### STAR Reflection
 
 **S**: I had to complete the Interview Skills activity as part of my work readiness training.
 
@@ -136,3 +136,31 @@ STAR Reflection
 **A**: I reviewed the key concepts of interview preparation, including the CAR (Context, Action, Result) method. I applied this knowledge while answering the activity questions and focused on how to communicate confidently and professionally in an interview setting.
 
 **R**: The activity improved my confidence and readiness for real interviews by helping me structure my answers and present myself effectively.
+
+## Professional Networking
+### Evidence
+<img width="1919" height="902" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/34478e10-46b3-4775-b93f-14ded520afc8" />
+
+### STAR Reflection
+
+**S**: I had to complete the Professional Networking activity as part of my work readiness training.
+
+**T**: My goal was to understand how to build and maintain professional relationships that can support my career growth.
+
+**A**: I learned about different networking strategies, such as using LinkedIn, attending professional events, and maintaining communication with contacts. I also practiced how to introduce myself professionally and engage in meaningful conversations that leave a positive impression.
+
+**R**: I gained a clear understanding of how to expand my professional network and connect with others in my field. The activity helped me build confidence in approaching professionals and highlighted the importance of networking for future job opportunities and career development.
+
+## Workplace Etiquette
+### Evidence
+<img width="1919" height="884" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/241eb6db-da45-4710-b017-d61ea0005404" />
+
+### STAR Reflection
+
+**S**: I completed the Workplace Etiquette activity as part of my work readiness training.
+
+**T**: My goal was to understand how to behave professionally in a workplace setting and follow proper conduct, communication, and teamwork principles.
+
+**A**: I studied key aspects of workplace behavior such as punctuality, respect, appropriate communication, dress code, and maintaining a positive attitude. I also reflected on how these behaviors contribute to a productive and respectful work environment.
+
+**R**: I gained a deeper understanding of professional standards and how to apply them in real workplace situations. The activity helped me recognize the importance of professionalism and how good etiquette supports teamwork, communication, and career growth.

@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/430dd365-08ea-40b2-9c38-23d28e0106bd" /># Project_Presentation
+Project_Presentation
 
 #  Digital Portfolio Portfolio
 
